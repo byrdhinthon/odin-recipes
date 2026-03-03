@@ -1,0 +1,18 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #BFC6C4;
+}
+
+h1,h2,h3 {
+    display: inline-block;
+    background-color: #E8E2D8;
+    color: #6F8F72;
+    padding: 20px;
+    border: 2px solid #6F8F72;
+}
+
+li,li a,p a, p {
+    font-size: 20px;
+    color: #6F8F72;
+}
